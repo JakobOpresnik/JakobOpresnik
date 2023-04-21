@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Jakob Oprešnik
+- CS student 🎓
+- interested in web & mobile development
+- experience ➡️ `Python` `C++` `Kotlin` `JavaScript` `TypeScript` `MySQL` `MongoDB`
+
 <!--
 **JakobOpresnik/JakobOpresnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
