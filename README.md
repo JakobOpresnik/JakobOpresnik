@@ -3,8 +3,8 @@
 ### My name is Jakob Oprešnik
 - computer science student at <a href="https://feri.um.si/">FERI</a> 🎓
 - interested in `web` & `mobile development` 💻
-- I wish to build practical apps that make our every day lives easier and more productive 🙂
-- You can reach me at <a href="mailto:jakob.opresnik@gmail.com">jakob.opresnik@gmail.com</a> or using <a href="https://www.linkedin.com/in/jakob-opre%C5%A1nik-369214204/">LinkedIn</a>
+- I wish to build practical apps that make our everyday lives easier and more productive 🙂
+- You can reach me at <a href="mailto:jakob.opresnik@gmail.com">jakob.opresnik@gmail.com</a> or via <a href="https://www.linkedin.com/in/jakob-opre%C5%A1nik-369214204/">LinkedIn</a>
 - Check out my full <a href="https://flowcv.com/resume/v7ip5u4ujs">CV</a>
 
 ## Tech Experience 
