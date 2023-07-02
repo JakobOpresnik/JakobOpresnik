@@ -4,8 +4,8 @@
 - computer science student at <a href="https://feri.um.si/">FERI</a> 🎓
 - interested in `web` & `mobile development` 💻
 - I wish to build practical apps that make our everyday lives easier and more productive 🙂
-- You can reach me at <a href="mailto:jakob.opresnik@gmail.com">jakob.opresnik@gmail.com</a> or via <a href="https://www.linkedin.com/in/jakob-opre%C5%A1nik-369214204/">LinkedIn</a>
-- Check out my full <a href="https://flowcv.com/resume/v7ip5u4ujs">CV</a>
+- you can reach me at <a href="mailto:jakob.opresnik@gmail.com">jakob.opresnik@gmail.com</a> or via <a href="https://www.linkedin.com/in/jakob-opre%C5%A1nik-369214204/">LinkedIn</a>
+- check out my full <a href="https://flowcv.com/resume/v7ip5u4ujs">CV</a>
 
 ## Tech Experience 
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)&nbsp;
