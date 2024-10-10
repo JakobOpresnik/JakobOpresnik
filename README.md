@@ -22,7 +22,7 @@
 </div>
 
 <div styles={{ flexDirection: "row" }}>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="35" height="35" />
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="35" height="35" />
   <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="35" height="35" />
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="35" height="35" />
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="35" height="35" />
@@ -32,12 +32,6 @@
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="35" height="35" />
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="35" height="35" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="35" height="35" />
-</div>
-
-<div styles={{ flexDirection: "row" }}>
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="35" height="35" />
-  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="35" height="35" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="35" height="35" />
 </div>
 
 <div styles={{ flexDirection: "row" }}>
