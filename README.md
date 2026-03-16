@@ -6,6 +6,7 @@
 - I wish to build practical apps that make our everyday lives easier and more productive 🙂
 - you can reach me at <a href="mailto:jakob.opresnik@gmail.com">jakob.opresnik@gmail.com</a> or via <a href="https://www.linkedin.com/in/jakob-opre%C5%A1nik-369214204/">LinkedIn</a>
 - check out my full <a href="https://flowcv.com/resume/v7ip5u4ujs">CV</a>
+- check out my <a href="https://www.jakobopresnik.si">personal portfolio page</a>
 
 ## Tech Experience
 
