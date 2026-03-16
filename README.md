@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 ### My name is Jakob Oprešnik
-- Master's computer science student at <a href="https://feri.um.si/">FERI</a> 🎓
+- Master's computer science student at <a href="https://feri.um.si" target="_blank" rel="noopener noreferrer">FERI</a> 🎓
 - mobile and web application developer 💻
 - I wish to build practical apps that make our everyday lives easier and more productive 🙂
-- you can reach me at <a href="mailto:jakob.opresnik@gmail.com">jakob.opresnik@gmail.com</a> or via <a href="https://www.linkedin.com/in/jakob-opre%C5%A1nik-369214204/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+- you can reach me at <a href="mailto:jakob.opresnik@gmail.com">jakob.opresnik@gmail.com</a> or via <a href="https://www.linkedin.com/in/jakob-opre%C5%A1nik-369214204" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 - check out my <a href="https://www.jakobopresnik.si" target="_blank" rel="noopener noreferrer">personal portfolio page</a>
 - check out my full <a href="https://flowcv.com/resume/v7ip5u4ujs" target="_blank" rel="noopener noreferrer">CV</a>
 
